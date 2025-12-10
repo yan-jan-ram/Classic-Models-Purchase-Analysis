@@ -57,7 +57,7 @@ Specifically, the report answers:
 
 ## 📊 Power BI Report – Highlights
 
-### Page 1 – Sales Overview (Decomposition Tree & Time Analysis)
+### Page 2 – Sales Overview (Decomposition Tree & Time Analysis)
 
 - **Decomposition tree** showing how **Net Profit** breaks down by:
   - Customer Country → Product Line → Customer Name
@@ -66,7 +66,7 @@ Specifically, the report answers:
   - **MoM% change**
   - **YTD Sales**
 
-### Page 2 – Sales Dashboard
+### Page 1 – Sales Dashboard
 
 - **KPIs**
   - Total Sales
@@ -203,15 +203,15 @@ RETURN
 
 ## 🔗 Data Model
 
-![ModelView]([screenshots/model view.png](https://github.com/yan-jan-ram/Classic-Models-Purchase-Analysis/blob/main/screenshots/model%20view.png))
+![ModelView](screenshots/model-view.png)
 
 ## 📊 Power BI Dashboard Screenshots
 
-### Page 1 – Profit Decomposition
-![Page1](assets/classic-models-page1.png)
+### Page 1 – Sales Dashboard
+![Page1](screenshots/classic-models-page_1.png)
 
-### 📄 Page 2 – Sales Dashboard
-![Page 1](screenshots/classic models page_1.png)
+### 📄 Page 2 – Profit Decomposition
+![Page 1](screenshots/classic-models-page_2.png)
 
 ## 📈 Excel Purchase Analysis
 
