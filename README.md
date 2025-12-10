@@ -200,3 +200,29 @@ RETURN
         SalesValue
     )
 ```
+
+## 🔗 Data Model
+
+![ModelView](screenshots/model-view.png)
+
+## 📊 Power BI Dashboard Screenshots
+
+### Page 1 – Profit Decomposition
+![Page1](assets/classic-models-page1.png)
+
+### Page 2 – Sales Dashboard
+![Page2](assets/classic-models-page2.png)
+
+## 📈 Excel Purchase Analysis
+
+### Credit Limit Groups
+![CreditLimit](assets/excel-credit-limit.png)
+
+### Credit Card Holders
+![CardHolders](assets/excel-card-holders.png)
+
+### Delivery Delays
+![Delays](assets/excel-delays.png)
+
+### Purchase Mix Heatmap
+![Heatmap](assets/excel-heatmap.png)
