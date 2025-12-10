@@ -218,8 +218,8 @@ RETURN
 ### Excel Dashboard for Purchase Analysis
 ![ExcelDashboard](excel-analysis-screenshots/excel-dashboard.png)
 
-### Credit Card Holders
-![CardHolders](excel-analysis-screenshots/excel-card-holders.png)
+### Delayed Orders
+![Delays](excel-analysis-screenshots/delayed.png)
 
 ### Sales Overview
 ![Sales](excel-analysis-screenshots/sales-overview.png)
