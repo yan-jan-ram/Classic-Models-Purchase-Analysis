@@ -215,14 +215,17 @@ RETURN
 
 ## 📈 Excel Purchase Analysis
 
-### Credit Limit Groups
-![CreditLimit](assets/excel-credit-limit.png)
+### Excel Dashboard for Purchase Analysis
+![ExcelDashboard](screenshots/excel-dashboard.png)
 
 ### Credit Card Holders
-![CardHolders](assets/excel-card-holders.png)
+![CardHolders](screenshots/excel-card-holders.png)
 
-### Delivery Delays
-![Delays](assets/excel-delays.png)
+### Sales Overview
+![Sales](screenshots/sales-overview.png)
 
-### Purchase Mix Heatmap
-![Heatmap](assets/excel-heatmap.png)
+### Sales per Country
+![Country](screenshots/sales-per-country.png)
+
+### Purchase Orders Heatmap
+![Heatmap](screenshots/purchase-orders-%.png)
