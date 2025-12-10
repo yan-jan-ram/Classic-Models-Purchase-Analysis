@@ -229,3 +229,15 @@ RETURN
 
 ### Purchase Orders Heatmap
 ![Heatmap](excel-analysis-screenshots/purchase-orders-heatmap.png)
+
+```
+## 📁 Project Structure
+
+Classic-Models-Purchase-Analysis/
+│
+├── PowerBI/ → Dashboard PBIX (only snapshots)
+├── excel-analysis-screenshots
+├── excel
+├── screenshots
+└── README.md
+```
