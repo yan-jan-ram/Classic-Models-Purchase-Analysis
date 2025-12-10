@@ -203,7 +203,7 @@ RETURN
 
 ## 🔗 Data Model
 
-![ModelView](screenshots/model-view.png)
+![ModelView](screenshots/model view.png)
 
 ## 📊 Power BI Dashboard Screenshots
 
