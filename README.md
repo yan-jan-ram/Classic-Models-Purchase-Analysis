@@ -203,7 +203,7 @@ RETURN
 
 ## 🔗 Data Model
 
-![ModelView](screenshots/model view.png)
+![ModelView]([screenshots/model view.png](https://github.com/yan-jan-ram/Classic-Models-Purchase-Analysis/blob/main/screenshots/model%20view.png))
 
 ## 📊 Power BI Dashboard Screenshots
 
