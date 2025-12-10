@@ -210,8 +210,8 @@ RETURN
 ### Page 1 – Profit Decomposition
 ![Page1](assets/classic-models-page1.png)
 
-### Page 2 – Sales Dashboard
-![Page2](assets/classic-models-page2.png)
+### 📄 Page 2 – Sales Dashboard
+![Page 1](screenshots/classic models page_1.png)
 
 ## 📈 Excel Purchase Analysis
 
