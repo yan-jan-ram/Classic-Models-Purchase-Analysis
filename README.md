@@ -216,16 +216,16 @@ RETURN
 ## 📈 Excel Purchase Analysis
 
 ### Excel Dashboard for Purchase Analysis
-![ExcelDashboard](screenshots/excel-dashboard.png)
+![ExcelDashboard](excel-analysis-screenshots/excel-dashboard.png)
 
 ### Credit Card Holders
-![CardHolders](screenshots/excel-card-holders.png)
+![CardHolders](excel-analysis-screenshots/excel-card-holders.png)
 
 ### Sales Overview
-![Sales](screenshots/sales-overview.png)
+![Sales](excel-analysis-screenshots/sales-overview.png)
 
 ### Sales per Country
-![Country](screenshots/sales-per-country.png)
+![Country](excel-analysis-screenshots/sales-per-country.png)
 
 ### Purchase Orders Heatmap
-![Heatmap](screenshots/purchase-orders-%.png)
+![Heatmap](excel-analysis-screenshots/purchase-orders-%.png)
