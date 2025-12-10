@@ -228,4 +228,4 @@ RETURN
 ![Country](excel-analysis-screenshots/sales-per-country.png)
 
 ### Purchase Orders Heatmap
-![Heatmap](excel-analysis-screenshots/purchase-orders-%.png)
+![Heatmap](excel-analysis-screenshots/purchase-orders-heatmap.png)
