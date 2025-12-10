@@ -124,13 +124,14 @@ Below are the most important DAX measures used in the report.
 ### 🔹 Average Sales Value per Order
 
 ```DAX
-1. Average Sales Value per Order =
+Average Sales Value per Order =
 DIVIDE(
     SUM ( 'Sales Data for Power BI'[sales_value] ),
     DISTINCTCOUNT ( 'Sales Data for Power BI'[ordernumber] )
 )
-
-2. Net Profit =
+### 🔹 Net profit
+```DAX
+Net Profit =
 VAR SalesValue =
     SUM ( 'Sales Data for Power BI'[sales_value] )
 VAR CostValue =
