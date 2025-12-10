@@ -129,7 +129,10 @@ DIVIDE(
     SUM ( 'Sales Data for Power BI'[sales_value] ),
     DISTINCTCOUNT ( 'Sales Data for Power BI'[ordernumber] )
 )
-### 🔹 Net profit
+```
+
+### 🔹 Net Profit
+
 ```DAX
 Net Profit =
 VAR SalesValue =
@@ -138,8 +141,12 @@ VAR CostValue =
     SUM ( 'Sales Data for Power BI'[cost_of_sales] )
 RETURN
     SalesValue - CostValue
+```
 
-3. sales_value MoM% =
+### 🔹 Sales Value MoM%
+
+```DAX
+sales_value MoM% =
 IF(
     ISFILTERED ( 'Sales Data for Power BI'[orderdate] ),
     ERROR (
@@ -157,8 +164,12 @@ IF(
             __PREV_MONTH
         )
 )
+```
 
-4. sales_value YTD =
+### 🔹 Sales Value YTD
+
+```DAX
+sales_value YTD =
 IF(
     ISFILTERED ( 'Sales Data for Power BI'[orderdate] ),
     ERROR (
@@ -170,8 +181,12 @@ IF(
         'Sales Data for Power BI'[orderdate].[Date]
     )
 )
+```
 
-5. Selected Metric =
+### 🔹 Selected Metric (Dynamic Toggle Between Sales & Net Profit)
+
+```DAX
+Selected Metric =
 VAR SalesValue =
     SUM ( 'Sales Data for Power BI'[sales_value] )
 VAR ProfitValue =
@@ -184,29 +199,4 @@ RETURN
         2, ProfitValue,
         SalesValue
     )
-
-## 📈 Excel Purchase Analysis
-
-### Credit Limit Groups
-![CreditLimit](assets/excel-credit-limit.png)
-
-### Credit Card Holders
-![CardHolders](assets/excel-card-holders.png)
-
-### Delivery Delays
-![Delays](assets/excel-delays.png)
-
-### Purchase Mix Heatmap
-![Heatmap](assets/excel-heatmap.png)
-
-## 🔗 Data Model
-
-![ModelView](assets/model-view.png)
-
-## 📊 Power BI Dashboard Screenshots
-
-### Page 1 – Profit Decomposition
-![Page1](assets/classic-models-page1.png)
-
-### Page 2 – Sales Dashboard
-![Page2](assets/classic-models-page2.png)
+```
