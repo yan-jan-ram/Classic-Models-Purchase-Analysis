@@ -117,9 +117,62 @@ These Excel views complement the Power BI report and demonstrate traditional BI 
 
 ---
 
-## 🧮 Key DAX Measures
+## 🔍 Key Insights and Findings
+#### 1. Classic Cars Dominate Revenue
 
-Below are the most important DAX measures used in the report.
+- Classic Cars is the strongest product line by a large margin, generating the highest total sales and profit.
+- It consistently outperforms other lines such as Motorcycles, Trucks & Buses, and Vintage Cars.
+- This indicates strong customer preference and should be the primary category for inventory and marketing focus.
+
+#### 2. Product Line Profitability Varies Sharply
+
+- While Classic Cars lead in sales, Motorcycles and Vintage Cars show stronger profit margins in several months.
+- Some product lines generate high sales but low profit due to:
+
+  - Higher cost of goods
+  - Discount-heavy orders
+  - Inefficient shipping or credit terms
+
+#### 3. Country-Level Trends Highlight Core Markets
+
+- USA, France, and Spain generate the largest share of revenue.
+- Smaller markets like Australia and Singapore show better average profit per order, despite lower order volume.
+- Indicates opportunities to:
+
+  - Expand into high-margin smaller regions
+  - Optimize logistics in large but low-margin countries
+
+#### 4. Office-Level Sales Performance Shows Geographic Imbalance
+
+- Offices in San Francisco and Paris outperform others significantly.
+- Offices such as Boston and Madrid contribute less to overall revenue.
+- Suggests uneven distribution of customer demand and potential opportunities for:
+
+  - Reallocation of resources
+  - Region-specific sales strategies
+
+#### 5. Monthly Sales Trend Shows Seasonality
+
+- Sales and net profit show consistent month-over-month fluctuations, with peaks in Q2 and Q4.
+- MoM% analysis reveals:
+
+  - Strong growth months driven by large B2B orders
+  - Declines linked to slowed reorders and supply chain delays
+  - Year-to-date (YTD) sales track strongly upward.
+
+#### 6. Customers With Higher Credit Limits Spend Significantly More
+
+- Customers with credit limits above $80,000–$100,000 generate:
+
+  - Highest total sales
+  - Higher average order values
+  - Customers with smaller credit limits show:
+  - Lower purchase frequency
+  - Smaller basket size
+
+- Indicates credit capacity directly affects sales potential.
+
+## 🧮 Key DAX Measures
 
 ### 🔹 Average Sales Value per Order
 
